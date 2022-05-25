@@ -1,0 +1,1 @@
+package com.galang.kisah25nabi.utilsimport com.galang.kisah25nabi.data.KisahResponseinterface OnItemClickCallback {    fun onItemClicked(item: KisahResponse)}
